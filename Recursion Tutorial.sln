@@ -9,9 +9,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Arrays", "Arrays\Arrays.csp
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "School_project", "School_project\School_project.csproj", "{BD92C854-4348-462F-943D-8AF78F2E9BD3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Project", "Project\Project.csproj", "{C6026DCA-C4DA-49C6-AE7D-86A4CEAE39F3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Project", "Project\Project.csproj", "{C6026DCA-C4DA-49C6-AE7D-86A4CEAE39F3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ITCareer", "ITCareer\ITCareer.csproj", "{04CECA17-3688-4FA7-86C8-4C6B81619B86}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ITCareer", "ITCareer\ITCareer.csproj", "{04CECA17-3688-4FA7-86C8-4C6B81619B86}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Grade", "Grade\Grade.csproj", "{2BBD0F7C-490C-48D5-A88A-AE3C7C259EAD}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +41,10 @@ Global
 		{04CECA17-3688-4FA7-86C8-4C6B81619B86}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{04CECA17-3688-4FA7-86C8-4C6B81619B86}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{04CECA17-3688-4FA7-86C8-4C6B81619B86}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2BBD0F7C-490C-48D5-A88A-AE3C7C259EAD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2BBD0F7C-490C-48D5-A88A-AE3C7C259EAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2BBD0F7C-490C-48D5-A88A-AE3C7C259EAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2BBD0F7C-490C-48D5-A88A-AE3C7C259EAD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
