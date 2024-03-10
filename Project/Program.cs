@@ -24,7 +24,7 @@ namespace Proekt
                 Console.WriteLine("                          Меню                          ");
                 Console.WriteLine("--------------------------------------------------------");
                 Console.WriteLine("                                                        ");
-                Console.WriteLine("1. Въвеждане на клиенти. ");
+                Console.WriteLine("1. Въвеждане на клиенти. "); //testvame
                 Console.WriteLine("2. Извеждане на базата данни в табличен вид.");
                 Console.WriteLine("3. Извеждане на клиентите според зададен вид услуга.");
                 Console.WriteLine("4. Сортиране в низходящ ред на срока за изпълнение.");
