@@ -13,7 +13,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Project", "Project\Project.
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ITCareer", "ITCareer\ITCareer.csproj", "{04CECA17-3688-4FA7-86C8-4C6B81619B86}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Grade", "Grade\Grade.csproj", "{2BBD0F7C-490C-48D5-A88A-AE3C7C259EAD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Grade", "Grade\Grade.csproj", "{2BBD0F7C-490C-48D5-A88A-AE3C7C259EAD}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
