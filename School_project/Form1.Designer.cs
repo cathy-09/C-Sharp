@@ -503,6 +503,7 @@
             Controls.Add(gpBEmployee);
             Controls.Add(gBStudent);
             Controls.Add(gBPosition);
+            Icon = (Icon)resources.GetObject("$this.Icon");
             Name = "Form1";
             Text = "Училище";
             gBPosition.ResumeLayout(false);
