@@ -1,0 +1,17 @@
+C:\Users\1234\Downloads\Project-OOP\OOP-Project_Tasks\BookLibrary\bin\Debug\net8.0-windows\BookLibrary.exe
+C:\Users\1234\Downloads\Project-OOP\OOP-Project_Tasks\BookLibrary\bin\Debug\net8.0-windows\BookLibrary.deps.json
+C:\Users\1234\Downloads\Project-OOP\OOP-Project_Tasks\BookLibrary\bin\Debug\net8.0-windows\BookLibrary.runtimeconfig.json
+C:\Users\1234\Downloads\Project-OOP\OOP-Project_Tasks\BookLibrary\bin\Debug\net8.0-windows\BookLibrary.dll
+C:\Users\1234\Downloads\Project-OOP\OOP-Project_Tasks\BookLibrary\bin\Debug\net8.0-windows\BookLibrary.pdb
+C:\Users\1234\Downloads\Project-OOP\OOP-Project_Tasks\BookLibrary\obj\Debug\net8.0-windows\BookLibrary.Form1.resources
+C:\Users\1234\Downloads\Project-OOP\OOP-Project_Tasks\BookLibrary\obj\Debug\net8.0-windows\BookLibrary.csproj.GenerateResource.cache
+C:\Users\1234\Downloads\Project-OOP\OOP-Project_Tasks\BookLibrary\obj\Debug\net8.0-windows\BookLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1234\Downloads\Project-OOP\OOP-Project_Tasks\BookLibrary\obj\Debug\net8.0-windows\BookLibrary.AssemblyInfoInputs.cache
+C:\Users\1234\Downloads\Project-OOP\OOP-Project_Tasks\BookLibrary\obj\Debug\net8.0-windows\BookLibrary.AssemblyInfo.cs
+C:\Users\1234\Downloads\Project-OOP\OOP-Project_Tasks\BookLibrary\obj\Debug\net8.0-windows\BookLibrary.csproj.CoreCompileInputs.cache
+C:\Users\1234\Downloads\Project-OOP\OOP-Project_Tasks\BookLibrary\obj\Debug\net8.0-windows\BookLibrary.dll
+C:\Users\1234\Downloads\Project-OOP\OOP-Project_Tasks\BookLibrary\obj\Debug\net8.0-windows\refint\BookLibrary.dll
+C:\Users\1234\Downloads\Project-OOP\OOP-Project_Tasks\BookLibrary\obj\Debug\net8.0-windows\BookLibrary.pdb
+C:\Users\1234\Downloads\Project-OOP\OOP-Project_Tasks\BookLibrary\obj\Debug\net8.0-windows\BookLibrary.genruntimeconfig.cache
+C:\Users\1234\Downloads\Project-OOP\OOP-Project_Tasks\BookLibrary\obj\Debug\net8.0-windows\ref\BookLibrary.dll
+C:\Users\1234\Downloads\Project-OOP\OOP-Project_Tasks\BookLibrary\obj\Debug\net8.0-windows\BookLibrary.Main.resources

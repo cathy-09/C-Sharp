@@ -1,0 +1,17 @@
+C:\Users\1234\Downloads\Project-OOP\OOP-Project_Tasks\Perfumery\bin\Debug\net8.0-windows\Perfumery.exe
+C:\Users\1234\Downloads\Project-OOP\OOP-Project_Tasks\Perfumery\bin\Debug\net8.0-windows\Perfumery.deps.json
+C:\Users\1234\Downloads\Project-OOP\OOP-Project_Tasks\Perfumery\bin\Debug\net8.0-windows\Perfumery.runtimeconfig.json
+C:\Users\1234\Downloads\Project-OOP\OOP-Project_Tasks\Perfumery\bin\Debug\net8.0-windows\Perfumery.dll
+C:\Users\1234\Downloads\Project-OOP\OOP-Project_Tasks\Perfumery\bin\Debug\net8.0-windows\Perfumery.pdb
+C:\Users\1234\Downloads\Project-OOP\OOP-Project_Tasks\Perfumery\obj\Debug\net8.0-windows\Perfumery.Form1.resources
+C:\Users\1234\Downloads\Project-OOP\OOP-Project_Tasks\Perfumery\obj\Debug\net8.0-windows\Perfumery.Main.resources
+C:\Users\1234\Downloads\Project-OOP\OOP-Project_Tasks\Perfumery\obj\Debug\net8.0-windows\Perfumery.csproj.GenerateResource.cache
+C:\Users\1234\Downloads\Project-OOP\OOP-Project_Tasks\Perfumery\obj\Debug\net8.0-windows\Perfumery.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1234\Downloads\Project-OOP\OOP-Project_Tasks\Perfumery\obj\Debug\net8.0-windows\Perfumery.AssemblyInfoInputs.cache
+C:\Users\1234\Downloads\Project-OOP\OOP-Project_Tasks\Perfumery\obj\Debug\net8.0-windows\Perfumery.AssemblyInfo.cs
+C:\Users\1234\Downloads\Project-OOP\OOP-Project_Tasks\Perfumery\obj\Debug\net8.0-windows\Perfumery.csproj.CoreCompileInputs.cache
+C:\Users\1234\Downloads\Project-OOP\OOP-Project_Tasks\Perfumery\obj\Debug\net8.0-windows\Perfumery.dll
+C:\Users\1234\Downloads\Project-OOP\OOP-Project_Tasks\Perfumery\obj\Debug\net8.0-windows\refint\Perfumery.dll
+C:\Users\1234\Downloads\Project-OOP\OOP-Project_Tasks\Perfumery\obj\Debug\net8.0-windows\Perfumery.pdb
+C:\Users\1234\Downloads\Project-OOP\OOP-Project_Tasks\Perfumery\obj\Debug\net8.0-windows\Perfumery.genruntimeconfig.cache
+C:\Users\1234\Downloads\Project-OOP\OOP-Project_Tasks\Perfumery\obj\Debug\net8.0-windows\ref\Perfumery.dll
